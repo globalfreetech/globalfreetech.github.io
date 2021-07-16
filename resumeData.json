@@ -78,6 +78,10 @@
         "level": "75%"
       },
       {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
         "name": "Firebase",
         "level": "75%"
       },
@@ -123,7 +127,7 @@
         "title": "Crosspay Rewamp",
         "category": "Angular 10",
         "image": "crosspay.png",
-        "url": "crosspaymt.com"
+        "url": "https://crosspaymt.com"
       }
     ]
   },
