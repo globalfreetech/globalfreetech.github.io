@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Bhavik Kalariya",
+    "occupation": "CEO of YourProgrammer",
+    "description": "I eat, sleep and breathe Coding",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Bhavik! I've been coding for over 4 years now. As a Full Stack developer I've worked both with startups and Freelance Clients to help build & scale their companies and projects. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now started a YouTube Channel 'YourProgrammer' and taught hundred's of developers across the globe.  I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web and mobile app development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the YourProgrammer fam!",
+    "email": "globalfreetech@gmail.com",
+    "phone": "+91 9409360641",
+    "address": {
+      "street": "",
+      "city": "Jamnagar",
+      "state": "Gujarat",
+      "zip": ""
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCMISoJ5f_W09QuOGonh3gyQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/bhavik.kalariya.12",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bhavik-kalariya-247628202/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ibhavikpatel/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/globalfreetech",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "GEC - Rajkot",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "July 2019",
+        "description": "Graduated with Distinction Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Rao Infotech",
+        "title": "Javascript Developer",
+        "years": "Feb 2019 - July 2020",
+        "description": "Working as a Junior Javascript Developer. Completed couple of projects in Angular and Ionic each."
+      },
+      {
+        "company": "YourProgrammer",
+        "title": "Founder and CEO",
+        "years": "Aug 2020 - Present",
+        "description": "Designing and Developing real world website and apps. Building YourProgrammer fam and open for Freelancing work."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular 10",
+        "level": "100%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "75%"
+      },
+      {
+        "name": "Firebase",
+        "level": "75%"
+      },
+      {
+        "name": "Ionic 4+",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Cardy",
+        "category": "Angular 10",
+        "image": "cardy.png",
+        "url": "https://cardy.in"
+      },
+      {
+        "title": "Covid-19 App",
+        "category": "Ionic 5",
+        "image": "covid19.png",
+        "url": "https://youtu.be/C1rRqs7kjss"
+      },
+      {
+        "title": "Travel App",
+        "category": "Ionic 5",
+        "image": "travel.png",
+        "url": "https://youtu.be/wc_ctobJjgg"
+      },
+      {
+        "title": "Crosspay Rewamp",
+        "category": "Angular 10",
+        "image": "crosspay.png",
+        "url": "crosspaymt.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Bhavik has done a great job, he truly knows the technology he work in. I keep coming with daily changes and he worked on them politely. Truly Recommend to work with him again and again.",
+        "user": "Deepanshu Jain"
+      },
+      {
+        "text": "Bhavik is an excellent programmer, we are highly satisfied with his work and he has vast and deep knowledge about mobile apps. He had given full support from starting day 1 throughout for us. His work is excellent and he is trusted, expert & very quick. We suggest every one to hire this smart person to do any type of your work. He will do it for you in a polished manner. We are happy with his work and thank you bhavik for your excellent work which you completed before the deadline. We will give our future works to this superman. Highly recommended. Thank you so much and No. 1 freelancer in truelancer. Good luck for your future work :-)",
+        "user": "Fathima Rajeela"
+      },
+      {
+        "text": "Bhavik has been quick to respond and was good in his work.",
+        "user": "Tutan Tomb"
+      }
+    ]
+  }
+}
